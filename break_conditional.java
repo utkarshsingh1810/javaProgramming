@@ -4,7 +4,7 @@ public class break_conditional {
             if(i==3){
                 break;
             }System.out.println(i);
-        }   //System.out.println(i);
+        }   
         
         System.out.println("I am out of loop");
     }
